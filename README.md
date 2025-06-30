@@ -1,1 +1,1 @@
-imlementation IRC chat server on C++
+implementation IRC chat server on C++
